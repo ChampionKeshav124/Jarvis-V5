@@ -1,2 +1,34 @@
-# Jarvis-V5
-Jarvis V5
+# JARVIS V5
+
+An advanced AI-powered desktop assistant inspired by JARVIS.
+
+This system is designed to interact with the computer, automate tasks, and provide real-time intelligent responses.
+
+## 🚀 Features
+
+- 🧠 Real-time AI responses
+- 🌍 Multilingual understanding
+- 💻 Computer control automation
+- 🎮 Steam game installation capability
+- ⚡ Fast and modular architecture
+
+## 🛠️ Tech Stack
+
+- Electron
+- AI APIs
+- Automation tools
+
+## 🎯 Goal
+
+To build a real-life JARVIS-like system capable of assisting in everyday tasks and advanced workflows.
+
+## 🔥 Future Plans
+
+- Voice interaction improvements
+- Vision system integration
+- Full system control
+- Smart automation
+
+---
+
+This is Version 5. More updates coming soon.
