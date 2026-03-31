@@ -37,4 +37,5 @@ This is Version 5. More updates coming soon.
 Steps to run Jarvis V5 :-
 
 1.First, open cmd in the "Jarvis-V5" folder you just downloaded
-2.Second, 
+2.Second, "pip install -r requirements.txt" Type this command in cmd
+3.Right CLick the ".bat" file and Click "Run as Administrator"
