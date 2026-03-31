@@ -1,0 +1,11 @@
+[JARVIS] Launching installer for: Cell to Singularity - Evolution Never Ends (AppID: 977400)
+[11:17:50] DPI Awareness: LOCKED
+[11:17:50] STEAM INSTALLER PROCESS STARTED for: Cell to Singularity - Evolution Never Ends (AppID: 977400)
+[11:17:54] Core Win32/PyAutoGUI: OK
+[11:17:55] uiautomation: OK
+[11:17:55] Starting strike loop (45 seconds), waiting for dialog to appear...
+[11:17:58] --- SCAN #1 ---
+[11:17:59] UI-BUTTON 'Install' found at (547, 695) in 'Steam'
+[11:17:59] Sliding...
+[11:18:01] MECHANICAL CLICK delivered on 'Install'
+[11:18:04] --- SCAN #2 ---
