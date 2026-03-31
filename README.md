@@ -32,3 +32,9 @@ To build a real-life JARVIS-like system capable of assisting in everyday tasks a
 ---
 
 This is Version 5. More updates coming soon.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+Steps to run Jarvis V5 :-
+
+1.First, open cmd in the "Jarvis-V5" folder you just downloaded
+2.Second, 
